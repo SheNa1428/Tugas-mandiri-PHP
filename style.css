@@ -1,0 +1,33 @@
+
+body {
+    background-color: #f3f5f9;
+}
+
+
+.card-utama {
+    background-color: white;
+    border-radius: 14px;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+}
+
+thead th {
+    background-color: #eaf1fd;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
+
+.table td.lulus {
+    color: #198754 !important;
+    font-weight: bold;
+}
+
+.table td.tidak-lulus {
+    color: #dc3545 !important;
+    font-weight: bold;
+}
+
+
+
+
